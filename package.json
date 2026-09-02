@@ -1,0 +1,13 @@
+{
+  "name": "react-django-ai-helper",
+  "version": "1.0.0",
+  "description": "Add a conversational AI helper to the React and Django Hoot application",
+  "scripts": {
+    "mdv": "node md-validate.js"
+  },
+  "type": "module",
+  "author": "General Assembly",
+  "devDependencies": {
+    "ga-mdlint": "^1.0.5"
+  }
+}

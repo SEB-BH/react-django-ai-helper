@@ -1,0 +1,215 @@
+{
+  "org": {
+    "friendlyName": "SEB Bahrain",
+    "name": "seb-bahrain"
+  },
+  "repo": {
+    "friendlyName": "Django and React AI Helper",
+    "name": "react-django-ai-helper",
+    "type": "Lesson",
+    "about": "Add a conversational AI helper to the completed Hoot application.",
+    "starterCode": "./starter-code",
+    "solutionCode": "./solution-code",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "seb",
+      "courseAcronym": "SEB",
+      "courseFullName": "Software Engineering Bootcamp",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Concepts and Architecture",
+          "dirName": "concepts-and-architecture",
+          "type": "Content",
+          "skill": "Third-party API architecture",
+          "learningObjective": "Explain how React and Django communicate safely with an AI provider.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Set Up Gemini",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "Environment configuration",
+          "learningObjective": "Configure the official Gemini Python SDK without exposing an API key.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Scaffold the AI Helper",
+          "dirName": "scaffold-ai-helper",
+          "type": "Content",
+          "skill": "React routing",
+          "learningObjective": "Add a protected React page, route, and navigation link.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Build the Django Endpoint",
+          "dirName": "backend-ai-endpoint",
+          "type": "Content",
+          "skill": "DRF and external APIs",
+          "learningObjective": "Validate messages, call Gemini, and return a provider-neutral response.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 55
+        },
+        {
+          "friendlyName": "Build the Conversation State",
+          "dirName": "conversation-state",
+          "type": "Content",
+          "skill": "React state",
+          "learningObjective": "Control the prompt field and render an ordered message list.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 35
+        },
+        {
+          "friendlyName": "Connect React and Django",
+          "dirName": "connect-the-app",
+          "type": "Content",
+          "skill": "Asynchronous requests",
+          "learningObjective": "Send recent messages, append a response, and recover from a failure.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 35
+        },
+        {
+          "friendlyName": "Finish and Review",
+          "dirName": "finish-and-review",
+          "type": "Content",
+          "skill": "Interface states and verification",
+          "learningObjective": "Complete feedback states, style the feature, and verify the full flow.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 25
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": false,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Concepts and Architecture",
+          "dirName": "concepts-and-architecture",
+          "type": "Content",
+          "skill": "Third-party API architecture",
+          "learningObjective": "Explain how React and Django communicate safely with an AI provider.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Set Up Gemini",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "Environment configuration",
+          "learningObjective": "Configure the official Gemini Python SDK without exposing an API key.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Scaffold the AI Helper",
+          "dirName": "scaffold-ai-helper",
+          "type": "Content",
+          "skill": "React routing",
+          "learningObjective": "Add a protected React page, route, and navigation link.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Build the Django Endpoint",
+          "dirName": "backend-ai-endpoint",
+          "type": "Content",
+          "skill": "DRF and external APIs",
+          "learningObjective": "Validate messages, call Gemini, and return a provider-neutral response.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 55
+        },
+        {
+          "friendlyName": "Build the Conversation State",
+          "dirName": "conversation-state",
+          "type": "Content",
+          "skill": "React state",
+          "learningObjective": "Control the prompt field and render an ordered message list.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 35
+        },
+        {
+          "friendlyName": "Connect React and Django",
+          "dirName": "connect-the-app",
+          "type": "Content",
+          "skill": "Asynchronous requests",
+          "learningObjective": "Send recent messages, append a response, and recover from a failure.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 35
+        },
+        {
+          "friendlyName": "Finish and Review",
+          "dirName": "finish-and-review",
+          "type": "Content",
+          "skill": "Interface states and verification",
+          "learningObjective": "Complete feedback states, style the feature, and verify the full flow.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 25
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": false,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
